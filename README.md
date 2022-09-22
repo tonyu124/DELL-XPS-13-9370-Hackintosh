@@ -22,11 +22,10 @@ This is a Opencore build
 * **Touch-Screen/4kDisplay** Working well use 2 fingers to scroll pinch and zoom is nice. UIscale was adjusted for the 4k display and man its super clean
 * **Apple Services** this is working when I setup UDID and proper serial number/MAC Address
 * **BACKLIT KEYBOARD Brightness control** Key Works As should to dim 
-
+* **Internal Microphone** works fine just not from aux jack
 # What's not working?
 * Trackpad is on the frits at the moment ive had no life from it whatsoever on mac os, works perfect in windows so its not broken, i believe its conflict of kexts and ssdt but still testing because touchscreen is nice but still want a regular mouse .
 * USB c Ports on the left side only work if u have something plugged into them at boot, either ports on the left side but device needs to be powered off the usb insereted for it to work correctly then boot into macos
-* Mic not working
 * Goodix Fingerprint hasnt been setup but i will say its not working for now 
 * WebCam shows up in device list but no way to interact with it. 
 * Aux JAck but im working on a fix 
